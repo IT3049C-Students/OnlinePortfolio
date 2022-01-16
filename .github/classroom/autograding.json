@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Npm",
-      "setup": "npm install",
+      "setup": "npm install --ignore-scripts",
       "run": "npm run test",
       "input": "",
       "output": "",
